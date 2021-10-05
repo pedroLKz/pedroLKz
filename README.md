@@ -41,4 +41,4 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/_hOjEdl8zM7IUXMpdyvckA/1634220742/se
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="007",  007 contra o satânico Dr.No
-https://h4ahsm.cfeucdn.com/video_short.mp4
+https://m3u9.cf/vod2/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC/0071962CNTROSTNC.m3u8?mu3zAQc9HC3GbwJq=L0ZBCw2VlgN-O690fup1HQ&3U1G7qaTxrPbalZnEx=1633505834
