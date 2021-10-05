@@ -39,3 +39,6 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/_hOjEdl8zM7IUXMpdyvckA/1634220742/se
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/m.media-amazon.com/images/M/MV5BMWRkZTI4NzktYjA4Yi00ZjE0LTgzOWQtYzJlMTkyOTU1ODRmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY1200_CR67,0,630,1200_AL_.jpg?resize=340%2C510&ssl=1" group-title="007",  007 contra o satânico Dr.No
 https://h4ahsm.cfeucdn.com/video_short.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg" group-title="007",  007 contra Goldfinger
+https://c3.taboola.com/libtrc/static/video/v1629147694/loowuuyvrtvnyzh95a6t.mp4
