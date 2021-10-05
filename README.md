@@ -39,3 +39,6 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/_hOjEdl8zM7IUXMpdyvckA/1634220742/se
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.591de001af3ca1c12ce316fde40d67bd?rik=4dONiaP84WdvhQ&pid=ImgRaw&r=0" group-title="TVC",  TVC
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="007",  007 contra o satânico Dr.No
+https://h4ahsm.cfeucdn.com/video_short.mp4
