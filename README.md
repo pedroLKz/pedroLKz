@@ -37,5 +37,5 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/_hOjEdl8zM7IUXMpdyvckA/1634220742/se
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/af/78/f1/af78f10e3e17a38b4e2dd83083f17a91.jpg" group-title="Família Soprano-S01",  EP13
 https://s4.gripe-ocore-nada-acotece.xyz/hls/_hOjEdl8zM7IUXMpdyvckA/1634220742/series/FamiliaSoprano/dub-1-13/video.json/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="TVC"
-https://cdn-a.amazon-adsystem.com/video/6996d60a-4a2a-44a9-9d19-9521db6c7aad/MP4-900kbs-15fps-48khz-96kbs-480p.mp4?c=589673863989940166&a=583758825300465423&d=30.134&br=982&w=854&h=480&ct=1014,1020,&ca=-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.591de001af3ca1c12ce316fde40d67bd?rik=4dONiaP84WdvhQ&pid=ImgRaw&r=0" group-title="TVC",  TVC
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
