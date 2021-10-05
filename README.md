@@ -41,4 +41,4 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/_hOjEdl8zM7IUXMpdyvckA/1634220742/se
 https://h4ahsm.cfeucdn.com/video_short.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg" group-title="007",  007 contra Goldfinger
-https://c3.taboola.com/libtrc/static/video/v1629147694/loowuuyvrtvnyzh95a6t.mp4
+https://a-delivery28.mxdcontent.net/v/7ab00da204ebf72f3f0593ad4a059381.mp4?s=lez2bEkqFPiaKuJJ12slsQ&e=1633476535&_t=1633457813
